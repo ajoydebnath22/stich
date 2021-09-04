@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "apz.core",
+      "type": "com.theboy.core.config.ErrorProperties",
+      "sourceType": "com.theboy.core.config.ErrorProperties"
+    },
+    {
+      "name": "apz.core",
+      "type": "com.theboy.core.config.CommonProperties",
+      "sourceType": "com.theboy.core.config.CommonProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
